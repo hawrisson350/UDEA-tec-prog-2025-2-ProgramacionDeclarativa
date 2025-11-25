@@ -106,7 +106,7 @@ Esto cumple exactamente las validaciones y comportamiento exigido en el taller.
 3. Ejecute en este orden:
    - `DDL_Monedas.sql`
    - `DML_Monedas.sql`
-   - `Script_Cambios.sql`
+   - `Solucion-Examen.sql`
 4. Verifique datos con:
    ```sql
    SELECT * FROM Moneda;
@@ -117,7 +117,7 @@ Esto cumple exactamente las validaciones y comportamiento exigido en el taller.
 
 ## 🔍 6. Consultas de Verificación
 
-El archivo `Consultas_Verificacion.sql` contiene consultas como:
+El archivo `Solucion-Examen.sql` contiene consultas como:
 
 - Listado de monedas.
 - Cambios más recientes.
