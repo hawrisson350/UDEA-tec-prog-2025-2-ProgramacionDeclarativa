@@ -128,7 +128,5 @@ El archivo `Consultas_Verificacion.sql` contiene consultas como:
 
 ## 📌 Notas Finales
 
-- El script sigue el estilo utilizado por el profesor:  
-  estructura modular, validaciones explícitas y comentarios adecuados.
 - Compatible 100% con PostgreSQL y pgAdmin.
 - Puede ejecutarse tantas veces como sea necesario sin inconsistencias.
